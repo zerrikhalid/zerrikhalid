@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zerrikhalid
-- 👀 I’m interested in software developing
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning about this field
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
