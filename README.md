@@ -1,3 +1,5 @@
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/kzerri" alt="kzerri's 42 stats" /></a>
+
 - 👋 Hi, I’m @zerrikhalid
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning about this field
