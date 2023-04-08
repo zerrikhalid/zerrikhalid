@@ -5,7 +5,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/binary/kzerri" alt="kzerri's 42 stats" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerrikhalid&label=Profile%20views&color=0e75b6&style=flat" alt="zerrikhalid" /> </p>
+ -**Welcome to my GitHub page!**
 
 - 🔭 I’m currently studying **Computer Science**
 
