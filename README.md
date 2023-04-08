@@ -1,4 +1,4 @@
-![logo]([https://github.com/zerrikhalid/zerrikhalid/blob/main/images.jpg](https://github.com/zerrikhalid/zerrikhalid/blob/main/full-stack-developer-with-digital-java-code-text-full-stack-developer-and-computer-software-coding-vector-concept-programming-coding-script-java-di-W3XFX2.jpg))
+![logo](https://github.com/zerrikhalid/zerrikhalid/blob/main/im1.jpg)
 <h1 align="center">Hi 👋, I'm khalid zerri</h1>
 <h3 align="center">A passionate Software developer | a 42 Network Computer Science Student at 1337 Khouribga-Morocco Campus</h3>
 
