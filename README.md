@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerrikhalid&label=Profile%20views&color=0e75b6&style=flat" alt="zerrikhalid" /> </p>
 
-- 🌱 I’m currently learning **laravel**
+- 🔭 I’m currently studying **Computer Science**
 
 - 💬 Ask me about **laravel, symfony, angular, react.js**
 
