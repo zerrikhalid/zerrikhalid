@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zerrikhalid@gmail.com**
 
-- ⚡ Fun fact **Every master was once a beginner**
+- ⚡ real fact **Every master was once a beginner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
