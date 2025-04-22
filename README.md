@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 💬 Ask me about **Django, React, C, C++**
+- 💬 Ask me about **Django, React.js, Next.js, C, C++**
 
 - 📫 How to reach me **zerrikhalid@gmail.com**
 
