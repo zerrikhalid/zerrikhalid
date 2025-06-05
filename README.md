@@ -17,7 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khalid zerri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid zerri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kzerri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid zerri" height="30" width="40" /></a>
+<a href="https://zerrikhalid.vercel.app/" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="portfolio" height="20" />
+  <span style="font-family: Arial; font-size: 16px;">Portfolio</span>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
