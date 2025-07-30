@@ -1,5 +1,3 @@
-![logo](https://github.com/zerrikhalid/zerrikhalid/blob/main/fulls.jpg)
-
 <h1 align="center">Hi 👋, I'm khalid zerri</h1>
 <h3 align="center">A passionate Software developer | a 42 Network Computer Science Student at 1337 Khouribga-Morocco Campus</h3>
 
@@ -9,7 +7,7 @@
 
 - 🔭 I’m currently studying **Computer Science**
 
-- 💬 Ask me about **Django, React.js, Next.js, C, C++**
+- 💬 Ask me about **JavaScript, React.js, Next.js, C, C++**
 
 - 📫 How to reach me **zerrikhalid@gmail.com**
 
