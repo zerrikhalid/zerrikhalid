@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm khalid zerri</h1>
-<h3 align="center">A passionate Software developer | a 42 Network Computer Science Student at 1337 Khouribga-Morocco Campus</h3>
+<h3 align="center">A passionate Software engineer | a 42 Network Computer Science Student at 1337 Khouribga-Morocco Campus</h3>
 
 <a href="https://github.com/oakoudad/badge42"><img align="right" width="50%" src="https://badge.mediaplus.ma/binary/kzerri" alt="kzerri's 42 stats" /></a>
 
  -**Welcome to my GitHub page!**
-
-- 🔭 I’m currently studying **Computer Science**
-
-- 💬 Ask me about **JavaScript, React.js, Next.js, C, C++**
-
-- 📫 How to reach me **zerrikhalid@gmail.com**
-
-- ⚡ real fact **Every master was once a beginner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
